@@ -1,0 +1,15 @@
+Comandos básicos
+git init
+git config --global user.name""
+git config --global user.email @inemkennedy.edu.co
+git config user.name
+git config user.email
+clear
+git status
+git add .
+git commit -m "listo para subir"
+git commit -m "segundo commit"
+git remote add origin https://github.com/juandiego-sketch/primer_repositorio.git
+primer_repositorio.git
+git push -u origin master
+git commit -m "tercer commit"
